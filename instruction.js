@@ -44,4 +44,4 @@ const mapStateToProps = state => ({
 export default connect(mapStateToProps,{
     ProceedtoTest,
     fetchTestdata
-})(Instruction); change
+})(Instruction);
