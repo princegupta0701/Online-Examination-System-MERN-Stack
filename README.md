@@ -87,7 +87,7 @@ Start the server
 	
 	9. By Default Admin emailid: "admin@test.com", Password: "admin" .
 
-# ScreenShots Of The Project
+# ScreenShots Of The Project:- 
 
 ## 1. Login Page
 
@@ -97,7 +97,7 @@ Start the server
 
 ![Trainers](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/31182280-69c6-4a4c-8ed2-5ea349da0a9c)
 
-## 3. Examiner Adding New Questions
+## 3. Examiner Panel for Question Management
 
 ![newQuestion](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/b12b8aac-c337-4743-9b41-056eb3f67a3b)
 
@@ -109,11 +109,11 @@ Start the server
 
 ![examRegister](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/74287929-1dfd-4191-86ad-eeddd10ebf57)
 
-## 6. Exam Portal With Exam timer Support
+## 6. Exam Portal With MCQs and Exam Timer Support
 
 ![testPortal](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/023f1060-54e6-419e-b57d-a02b08a3bf46)
 
-## 7. Examinee Detailed Result Page
+## 7. Examinee Detailed Results and Analytics Panel
 
 ![results](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/aed86c5f-0950-412c-9245-b373595a41ed)
 
@@ -125,6 +125,6 @@ Start the server
 
 ![db](https://github.com/princegupta0701/Online-Examination-System-MERN-Stack/assets/156581169/9a05df77-653e-4b77-b9b7-3f743d0c098a)
 
-# Feedback Regarding This Project
+# Feedback Regarding This Project 😇
 
 ## If you have any feedback, please reach out to Me at mailto:royp13247@gmail.com
