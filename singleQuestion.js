@@ -269,4 +269,4 @@ export default connect(mapStateToProps,{
     switchQuestion,
     updateIsMarked,
     fetchTestdata
-})(SingleQuestion); change
+})(SingleQuestion);
