@@ -2,7 +2,7 @@
 
 The Online Examination Application is a comprehensive platform designed to facilitate the creation, administration, and evaluation of online exams. It aims to provide a seamless experience for both examiner and examinee, ensuring that exams are conducted efficiently, securely, and with minimal administrative overhead.
 
-## Tech Stack Used:-
+# Tech Stack Used:-
 
 1. Frontend: HTML, CSS, JavaScript, React.js
 2. Backend: Node.js, Express.js
@@ -13,7 +13,7 @@ The Online Examination Application is a comprehensive platform designed to facil
 7. Redux js
 8. Ant Design
 
-## Key Features:-
+# Key Features:-
 
 	1. User management
     2. Modular code
@@ -23,9 +23,9 @@ The Online Examination Application is a comprehensive platform designed to facil
     6. Results can directly be downloaded as excel sheet
     7. Feedback system
 
-## Steps to Run This Project Locally:-
+# Steps to Run This Project Locally:-
 
-# Install this project with npm For Backend
+## Install this project with npm For Backend
 
 Clone the Project
 
@@ -43,7 +43,7 @@ Install dependencies
   npm install
 ```
 
-# Install this project with npm For Frontend
+## Install this project with npm For Frontend
 
 Go to the project directory
 
