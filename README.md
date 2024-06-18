@@ -30,12 +30,12 @@ The Online Examination Application is a comprehensive platform designed to facil
 Clone the Project
 
 ```bash
-	git clone <The Github Repository Link>
+  git clone https://github.com/princegupta0701/Online-Examination-System-MERN-Stack.git
 ```
 Go to the project directory
  
 ```bash
-  cd Cloned Directory/Backend
+  cd Online-Examination-System-MERN-Stack/Backend
 ```
 Install dependencies
   
@@ -48,7 +48,7 @@ Install dependencies
 Go to the project directory
 
 ```bash
-  cd Cloned Directory/Frontend
+  cd Online-Examination-System-MERN-Stack/Frontend
 ```
 
 Install dependencies
@@ -127,4 +127,4 @@ Start the server
 
 # Feedback Regarding This Project 😇
 
-## If you have any feedback, please reach out to Me at mailto:royp13247@gmail.com
+## If you have any feedback or query related to this project, please reach out to Me at mailto:royp13247@gmail.com
