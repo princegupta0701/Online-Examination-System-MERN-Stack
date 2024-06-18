@@ -7,7 +7,7 @@ let trainerRegister = (req,res,next)=>{
     if(req.user.type==='ADMIN'){
         req.check('name', `Invalid name`).notEmpty();
         if(_id==null){
-            req.check('password','Invalid password').isLength({min : 5,max :20});
+            req.check('password','Invalid password').isLength({min : 5,max :6});
             req.check('emailid', ` Invalid email address`).isEmail().notEmpty();
         }
         req.check('contact','Invalid contact number').isLength({min : 13,max :13}).isNumeric({no_symbols: false});
